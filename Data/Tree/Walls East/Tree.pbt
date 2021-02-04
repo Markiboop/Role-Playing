@@ -1,4 +1,4 @@
-﻿Name: "Walls East"
+Name: "Walls East"
 RootId: 6605459755619622536
 Objects {
   Id: 1456185584469663986

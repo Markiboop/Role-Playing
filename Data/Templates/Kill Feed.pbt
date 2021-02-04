@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 15759193141744598731
   Name: "Kill Feed"
   PlatformAssetType: 5
@@ -295,5 +295,5 @@
       AssetId: "Kill_Feed"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

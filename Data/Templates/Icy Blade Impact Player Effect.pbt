@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 9899579869725936103
   Name: "Icy Blade Impact Player Effect"
   PlatformAssetType: 5
@@ -181,5 +181,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

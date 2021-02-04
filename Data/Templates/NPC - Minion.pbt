@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 12557759068248230105
   Name: "NPC - Minion"
   PlatformAssetType: 5
@@ -5068,5 +5068,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

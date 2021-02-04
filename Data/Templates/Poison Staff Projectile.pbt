@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3454932297529547407
   Name: "Poison Staff Projectile"
   PlatformAssetType: 5
@@ -421,5 +421,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

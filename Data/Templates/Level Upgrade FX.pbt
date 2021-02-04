@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 8499283534698809884
   Name: "Level Upgrade FX"
   PlatformAssetType: 5
@@ -147,5 +147,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

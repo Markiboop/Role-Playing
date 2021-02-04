@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17326242520781650230
   Name: "Elemental Ice Impact Surface Aligned"
   PlatformAssetType: 5
@@ -325,5 +325,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

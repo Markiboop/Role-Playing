@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 12291872806619147804
   Name: "Named Location Display"
   PlatformAssetType: 5
@@ -531,5 +531,5 @@
       AssetId: "Named_Location_Display"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

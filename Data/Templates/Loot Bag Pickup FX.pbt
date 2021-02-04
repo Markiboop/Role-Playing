@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 584806083194612527
   Name: "Loot Bag Pickup FX"
   PlatformAssetType: 5
@@ -153,5 +153,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3212585105222752708
   Name: "Elemental Ice Muzzle Flash"
   PlatformAssetType: 5
@@ -123,5 +123,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

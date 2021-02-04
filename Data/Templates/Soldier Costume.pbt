@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17034330208155532838
   Name: "Soldier Costume"
   PlatformAssetType: 5
@@ -1405,5 +1405,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

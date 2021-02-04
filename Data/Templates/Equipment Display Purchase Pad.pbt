@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 8904252288490769999
   Name: "Equipment Display Purchase Pad"
   PlatformAssetType: 5
@@ -681,5 +681,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

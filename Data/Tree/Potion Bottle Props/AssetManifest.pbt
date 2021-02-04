@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 15177054442487712282
   Name: "Bottle 02"
   PlatformAssetType: 1

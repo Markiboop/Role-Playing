@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 13972110979182650321
   Name: "Sconce 01"
   PlatformAssetType: 1

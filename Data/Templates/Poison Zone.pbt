@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 10606543271707601197
   Name: "Poison Zone"
   PlatformAssetType: 5
@@ -396,5 +396,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

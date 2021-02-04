@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18412200549844681622
   Name: "Poison Crossbow Projectile Trail"
   PlatformAssetType: 5
@@ -126,5 +126,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

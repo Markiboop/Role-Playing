@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 9764525845564692737
   Name: "NPC Camp - Waypoints"
   PlatformAssetType: 5
@@ -522,5 +522,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 10464596924209679696
   Name: "Crossbow Projectile Impact"
   PlatformAssetType: 5
@@ -88,5 +88,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

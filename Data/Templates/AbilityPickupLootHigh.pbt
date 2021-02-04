@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 980980319424508933
   Name: "AbilityPickupLootHigh"
   PlatformAssetType: 5
@@ -147,5 +147,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

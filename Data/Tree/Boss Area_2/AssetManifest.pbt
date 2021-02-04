@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 16757675604571197622
   Name: "Fantasy Castle Wall 01 - Doorway 01"
   PlatformAssetType: 1

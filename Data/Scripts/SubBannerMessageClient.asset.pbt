@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 2927386225211356535
   Name: "SubBannerMessageClient"
   PlatformAssetType: 3
@@ -20,5 +20,5 @@
       }
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

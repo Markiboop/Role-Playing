@@ -1,4 +1,4 @@
-﻿Name: "Walls_2"
+Name: "Walls_2"
 RootId: 13690723108590033856
 Objects {
   Id: 13212963150640915006

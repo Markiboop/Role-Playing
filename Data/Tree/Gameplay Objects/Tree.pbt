@@ -1,4 +1,4 @@
-﻿Name: "Gameplay Objects"
+Name: "Gameplay Objects"
 RootId: 7784830314711773274
 Objects {
   Id: 14330160703935451757

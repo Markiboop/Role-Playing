@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 2827286399272525664
   Name: "Cast Bar"
   PlatformAssetType: 5
@@ -362,5 +362,5 @@
       AssetId: "Cast_Bar"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

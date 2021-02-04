@@ -1,4 +1,4 @@
-﻿Name: "Candle Sconce Props"
+Name: "Candle Sconce Props"
 RootId: 1033878217229401331
 Objects {
   Id: 3547141157324948009

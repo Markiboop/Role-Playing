@@ -1,4 +1,4 @@
-﻿Name: "Dungeon Teleporters"
+Name: "Dungeon Teleporters"
 RootId: 13294618920652948473
 Objects {
   Id: 11064627078416206057

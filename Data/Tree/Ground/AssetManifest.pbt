@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17546982558755096284
   Name: "Whitebox Floor 01 8m x 8m"
   PlatformAssetType: 1

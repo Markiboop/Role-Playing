@@ -1,4 +1,4 @@
-﻿Name: "Chest Props"
+Name: "Chest Props"
 RootId: 8721387275887660968
 Objects {
   Id: 15139874523152538967

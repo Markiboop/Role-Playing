@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17303325457095335650
   Name: "Bricks Cobblestone Floor 01"
   PlatformAssetType: 2

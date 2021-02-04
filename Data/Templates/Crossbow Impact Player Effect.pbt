@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 8977951694917359836
   Name: "Crossbow Impact Player Effect"
   PlatformAssetType: 5
@@ -177,5 +177,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 12801774593744987157
   Name: "Shield 01"
   PlatformAssetType: 1

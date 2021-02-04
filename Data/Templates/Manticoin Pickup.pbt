@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 878252742973477645
   Name: "Manticoin Pickup"
   PlatformAssetType: 5
@@ -577,5 +577,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3293135210203877674
   Name: "Poison Crossbow"
   PlatformAssetType: 5
@@ -1260,5 +1260,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

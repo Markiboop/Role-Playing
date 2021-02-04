@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18416574560789436901
   Name: "NPC - Skeleton Swordsman"
   PlatformAssetType: 5
@@ -842,6 +842,14 @@
             AnimationPlaybackRateMultiplier: 1
             PlayOnStartAnimation {
               PlaybackRate: 1
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
             }
           }
         }
@@ -5456,5 +5464,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

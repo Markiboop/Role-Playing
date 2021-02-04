@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 851976022591200177
   Name: "Helper_TeleportFX"
   PlatformAssetType: 5
@@ -155,5 +155,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

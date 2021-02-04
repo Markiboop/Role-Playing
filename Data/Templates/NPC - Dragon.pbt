@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 15728781663253921388
   Name: "NPC - Dragon"
   PlatformAssetType: 5
@@ -829,6 +829,14 @@
               PlaybackRate: 1
               ShouldLoop: true
             }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
           }
         }
       }
@@ -865,5 +873,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 7013148133446455782
   Name: "Object Spawner"
   PlatformAssetType: 5
@@ -263,5 +263,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

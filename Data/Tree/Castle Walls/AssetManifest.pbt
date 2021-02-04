@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18226590038219798651
   Name: "Fantasy Castle Wall 04 - Window 01 Base"
   PlatformAssetType: 1

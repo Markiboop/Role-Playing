@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 7438994471160201683
   Name: "Poison Staff Surface Impact FX"
   PlatformAssetType: 5
@@ -353,5 +353,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

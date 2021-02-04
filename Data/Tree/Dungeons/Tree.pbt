@@ -1,4 +1,4 @@
-﻿Name: "Dungeons"
+Name: "Dungeons"
 RootId: 14137583794138807727
 Objects {
   Id: 7359034455248195005

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 7936693949144627473
   Name: "NPC - Human Peasant"
   PlatformAssetType: 5
@@ -872,6 +872,14 @@
             AnimationPlaybackRateMultiplier: 1
             PlayOnStartAnimation {
               PlaybackRate: 1
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
             }
           }
         }
@@ -1856,5 +1864,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

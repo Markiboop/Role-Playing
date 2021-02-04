@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3237383946689991651
   Name: "Helper_SubMessageBanner"
   PlatformAssetType: 5
@@ -234,5 +234,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

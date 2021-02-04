@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17018040306750491163
   Name: "LootDropDataEntry"
   PlatformAssetType: 3
@@ -23,5 +23,5 @@
       }
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

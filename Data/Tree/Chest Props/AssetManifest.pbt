@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 15885272858425703034
   Name: "Chest Big Opened"
   PlatformAssetType: 1

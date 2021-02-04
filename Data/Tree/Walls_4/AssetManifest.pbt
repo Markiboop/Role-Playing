@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17600359723065005811
   Name: "Whitebox Wall 01"
   PlatformAssetType: 1

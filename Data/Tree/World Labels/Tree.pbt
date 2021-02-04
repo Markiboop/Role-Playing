@@ -1,4 +1,4 @@
-﻿Name: "World Labels"
+Name: "World Labels"
 RootId: 6007349840065099166
 Objects {
   Id: 1952290187858138591

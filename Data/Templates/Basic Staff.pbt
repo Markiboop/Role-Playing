@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 123994272168548394
   Name: "Basic Staff"
   PlatformAssetType: 5
@@ -929,5 +929,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 16933613888300310408
   Name: "Floor Candle Holder 02"
   PlatformAssetType: 1

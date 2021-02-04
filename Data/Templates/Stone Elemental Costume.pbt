@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 82934862229540667
   Name: "Stone Elemental Costume"
   PlatformAssetType: 5
@@ -3238,5 +3238,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

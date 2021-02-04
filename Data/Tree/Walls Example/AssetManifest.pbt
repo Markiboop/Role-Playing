@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18010594934657419908
   Name: "Fantasy Castle Wall 01 - Cellar"
   PlatformAssetType: 1

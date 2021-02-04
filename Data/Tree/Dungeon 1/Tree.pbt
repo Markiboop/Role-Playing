@@ -1,4 +1,4 @@
-﻿Name: "Dungeon 1"
+Name: "Dungeon 1"
 RootId: 14151905075396227886
 Objects {
   Id: 11126368668072779248
@@ -31,7 +31,7 @@ Objects {
           Vector {
             X: 4800
             Y: -1600
-            Z: 24.9997559
+            Z: 99.5567322
           }
         }
         Overrides {
@@ -40,7 +40,7 @@ Objects {
         }
         Overrides {
           Name: "cs:ChangeRate"
-          Float: 1.2
+          Float: 2
         }
         Overrides {
           Name: "Rotation"
@@ -53,6 +53,18 @@ Objects {
             X: 1
             Y: 1
             Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11842461932334819614
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: -6750
+            Z: -1899.55664
           }
         }
       }
@@ -357,7 +369,7 @@ Objects {
   Transform {
     Location {
       X: 1130
-      Z: 250
+      Z: 324.556976
     }
     Rotation {
     }
@@ -1594,7 +1606,7 @@ Objects {
   Transform {
     Location {
       Y: -150
-      Z: 170
+      Z: 244.556976
     }
     Rotation {
     }

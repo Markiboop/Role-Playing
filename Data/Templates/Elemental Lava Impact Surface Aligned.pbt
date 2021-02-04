@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 16660356295141481842
   Name: "Elemental Lava Impact Surface Aligned"
   PlatformAssetType: 5
@@ -281,5 +281,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17749268126197611831
   Name: "Arch Fancy Peaked 6m"
   PlatformAssetType: 1

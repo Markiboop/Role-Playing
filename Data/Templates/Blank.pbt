@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 15345760362089961606
   Name: "Blank"
   PlatformAssetType: 5
@@ -32,5 +32,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

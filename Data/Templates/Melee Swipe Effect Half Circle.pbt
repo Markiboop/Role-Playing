@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17595504916760055462
   Name: "Melee Swipe Effect Half Circle"
   PlatformAssetType: 5
@@ -270,5 +270,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

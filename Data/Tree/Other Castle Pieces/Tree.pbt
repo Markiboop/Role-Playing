@@ -1,4 +1,4 @@
-﻿Name: "Other Castle Pieces"
+Name: "Other Castle Pieces"
 RootId: 11398087252085088788
 Objects {
   Id: 7354437122456638776
@@ -1729,41 +1729,12 @@ Objects {
   }
 }
 Objects {
-  Id: 7262575873071018219
-  Name: "Fantasy Castle Vault"
-  Transform {
-    Location {
-      X: -3950
-      Y: -4750
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11398087252085088788
-  ChildIds: 1580222971876921141
-  ChildIds: 2388140166290801598
-  ChildIds: 11869103759718720222
-  ChildIds: 13605857141959472361
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
   Id: 13605857141959472361
   Name: "Fantasy Castle Ceiling 01 - Vault 02"
   Transform {
     Location {
+      X: -3950
+      Y: -4750
     }
     Rotation {
       Yaw: 89.9999313
@@ -1774,7 +1745,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7262575873071018219
+  ParentId: 11398087252085088788
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1794,6 +1765,36 @@ Objects {
       Physics {
       }
     }
+  }
+}
+Objects {
+  Id: 7262575873071018219
+  Name: "Fantasy Castle Vault"
+  Transform {
+    Location {
+      X: -3950
+      Y: -4750
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11398087252085088788
+  ChildIds: 1580222971876921141
+  ChildIds: 2388140166290801598
+  ChildIds: 11869103759718720222
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
   }
 }
 Objects {

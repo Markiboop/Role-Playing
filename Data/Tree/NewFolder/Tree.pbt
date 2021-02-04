@@ -1,4 +1,4 @@
-﻿Name: "NewFolder"
+Name: "NewFolder"
 RootId: 4133531031245386448
 Objects {
   Id: 7385443887791586477

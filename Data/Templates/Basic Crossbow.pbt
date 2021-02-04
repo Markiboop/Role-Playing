@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 14981753837521153745
   Name: "Basic Crossbow"
   PlatformAssetType: 5
@@ -883,5 +883,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

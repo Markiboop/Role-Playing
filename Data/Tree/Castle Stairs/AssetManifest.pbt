@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18439275855531757136
   Name: "Fantasy Castle Stairs 01 - U"
   PlatformAssetType: 1

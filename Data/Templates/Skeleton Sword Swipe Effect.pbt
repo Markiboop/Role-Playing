@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 10862837515260375752
   Name: "Skeleton Sword Swipe Effect"
   PlatformAssetType: 5
@@ -287,5 +287,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18383743103264600034
   Name: "Poison Crossbow Impact Surface Aligned"
   PlatformAssetType: 5
@@ -274,5 +274,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

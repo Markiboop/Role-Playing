@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 5984235938909643820
   Name: "Named Location"
   PlatformAssetType: 5
@@ -178,5 +178,5 @@
       AssetId: "Named_Location"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

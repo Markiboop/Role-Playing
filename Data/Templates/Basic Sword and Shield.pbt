@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 7300386228413817757
   Name: "Basic Sword and Shield"
   PlatformAssetType: 5
@@ -1785,5 +1785,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

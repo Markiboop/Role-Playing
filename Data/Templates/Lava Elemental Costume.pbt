@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 247314756950470163
   Name: "Lava Elemental Costume"
   PlatformAssetType: 5
@@ -4276,5 +4276,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

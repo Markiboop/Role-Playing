@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 8103032393308906111
   Name: "Loot Drop Factory"
   PlatformAssetType: 5
@@ -388,5 +388,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

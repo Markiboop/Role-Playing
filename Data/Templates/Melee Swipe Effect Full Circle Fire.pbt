@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3253590200665902781
   Name: "Melee Swipe Effect Full Circle Fire"
   PlatformAssetType: 5
@@ -265,5 +265,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

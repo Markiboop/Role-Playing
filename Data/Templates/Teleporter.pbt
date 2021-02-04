@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 4378457362272202845
   Name: "Teleporter"
   PlatformAssetType: 5
@@ -384,5 +384,5 @@
       AssetId: "Teleporter"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

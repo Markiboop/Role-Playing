@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 1216660669670385720
   Name: "Double Door"
   PlatformAssetType: 5
@@ -838,5 +838,5 @@
       AssetId: "Double_Door"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

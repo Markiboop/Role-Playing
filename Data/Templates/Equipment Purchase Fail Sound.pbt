@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18241511406530328432
   Name: "Equipment Purchase Fail Sound"
   PlatformAssetType: 5
@@ -48,5 +48,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

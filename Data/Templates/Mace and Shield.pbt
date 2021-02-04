@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3182798045401535510
   Name: "Mace and Shield"
   PlatformAssetType: 5
@@ -2365,5 +2365,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

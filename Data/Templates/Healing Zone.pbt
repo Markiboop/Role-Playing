@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 16707471551379966800
   Name: "Healing Zone"
   PlatformAssetType: 5
@@ -404,5 +404,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

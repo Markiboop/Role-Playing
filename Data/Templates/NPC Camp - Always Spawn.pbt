@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 15466125726057637319
   Name: "NPC Camp - Always Spawn"
   PlatformAssetType: 5
@@ -202,5 +202,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

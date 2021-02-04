@@ -1,4 +1,4 @@
-﻿Name: "Castle Walls"
+Name: "Castle Walls"
 RootId: 11122543425023717309
 Objects {
   Id: 7894520890166141878

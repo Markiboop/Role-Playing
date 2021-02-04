@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 15782426867971259353
   Name: "Poison Staff Trail"
   PlatformAssetType: 5
@@ -95,5 +95,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

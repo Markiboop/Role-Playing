@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 11987226467617846863
   Name: "Ice Elemental Costume"
   PlatformAssetType: 5
@@ -4209,5 +4209,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

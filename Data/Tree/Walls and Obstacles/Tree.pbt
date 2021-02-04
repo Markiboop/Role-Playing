@@ -1,4 +1,4 @@
-﻿Name: "Walls and Obstacles"
+Name: "Walls and Obstacles"
 RootId: 10315638048313707346
 Objects {
   Id: 4461626500590074514

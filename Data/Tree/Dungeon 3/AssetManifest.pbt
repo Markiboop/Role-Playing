@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 13629958479359906438
   Name: "Cylinder - Rounded Bottom-Aligned"
   PlatformAssetType: 1

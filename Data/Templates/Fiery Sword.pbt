@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 16301956755852222092
   Name: "Fiery Sword"
   PlatformAssetType: 5
@@ -2937,5 +2937,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

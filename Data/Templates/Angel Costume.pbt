@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3636088437081659977
   Name: "Angel Costume"
   PlatformAssetType: 5
@@ -3582,5 +3582,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

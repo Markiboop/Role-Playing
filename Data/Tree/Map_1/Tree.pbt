@@ -1,4 +1,4 @@
-﻿Name: "Map_1"
+Name: "Map_1"
 RootId: 413991195585998862
 Objects {
   Id: 6269342187725287856
@@ -72,6 +72,8 @@ Objects {
   Name: "KillTrigger"
   Transform {
     Location {
+      X: -700
+      Z: 74.5569763
     }
     Rotation {
     }

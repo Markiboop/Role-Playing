@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3713011879827708848
   Name: "Melee Swipe Effect Full Circle Ice"
   PlatformAssetType: 5
@@ -314,5 +314,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

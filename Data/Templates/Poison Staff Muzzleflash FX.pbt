@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3691668285842845988
   Name: "Poison Staff Muzzleflash FX"
   PlatformAssetType: 5
@@ -76,5 +76,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

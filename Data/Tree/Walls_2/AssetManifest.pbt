@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17452387132035491001
   Name: "Whitebox Wall 01 Window Slot 3x"
   PlatformAssetType: 1

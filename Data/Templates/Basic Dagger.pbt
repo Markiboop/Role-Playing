@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 12924051150070208515
   Name: "Basic Dagger"
   PlatformAssetType: 5
@@ -1527,5 +1527,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

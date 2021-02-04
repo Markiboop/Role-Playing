@@ -1,4 +1,4 @@
-﻿Name: "Boss Area_1"
+Name: "Boss Area_1"
 RootId: 1333094107119040141
 Objects {
   Id: 1751712802868677753

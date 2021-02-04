@@ -1,4 +1,4 @@
-﻿Name: "NAVMESH_FOLDER"
+Name: "NAVMESH_FOLDER"
 RootId: 12046231422412153826
 Objects {
   Id: 13654332822756512889
@@ -394,7 +394,7 @@ Objects {
     Location {
       X: 4803.4624
       Y: -1599.71985
-      Z: 25.4430237
+      Z: 100
     }
     Rotation {
     }

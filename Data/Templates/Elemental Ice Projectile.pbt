@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 15741543741994185287
   Name: "Elemental Ice Projectile"
   PlatformAssetType: 5
@@ -190,5 +190,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

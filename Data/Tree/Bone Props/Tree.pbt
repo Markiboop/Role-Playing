@@ -1,4 +1,4 @@
-﻿Name: "Bone Props"
+Name: "Bone Props"
 RootId: 16823844624202999576
 Objects {
   Id: 5490357118208854118

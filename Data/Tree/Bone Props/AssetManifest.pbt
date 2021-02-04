@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18300597072120582980
   Name: "Bone Human Skull 01"
   PlatformAssetType: 1

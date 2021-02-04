@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 16673441874583589830
   Name: "Dagger Thurst FX"
   PlatformAssetType: 5
@@ -81,5 +81,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

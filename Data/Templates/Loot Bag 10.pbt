@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 7456704952079329111
   Name: "Loot Bag 10"
   PlatformAssetType: 5
@@ -1825,5 +1825,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

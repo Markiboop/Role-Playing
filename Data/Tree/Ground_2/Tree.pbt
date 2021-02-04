@@ -1,4 +1,4 @@
-﻿Name: "Ground_2"
+Name: "Ground_2"
 RootId: 16490995827354292922
 Objects {
   Id: 1101494332867180668

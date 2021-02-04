@@ -1,4 +1,4 @@
-﻿Name: "Lobby Area"
+Name: "Lobby Area"
 RootId: 3765684858975843531
 Objects {
   Id: 6007349840065099166

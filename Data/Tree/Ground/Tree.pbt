@@ -1,4 +1,4 @@
-﻿Name: "Ground"
+Name: "Ground"
 RootId: 12014395485368686659
 Objects {
   Id: 3294876699033387421
@@ -7704,6 +7704,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Z: 74.5569763
     }
     Rotation {
       Yaw: 179.999954
@@ -7767,6 +7768,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Z: 74.5569763
     }
     Rotation {
       Yaw: 89.9999542
@@ -7830,9 +7832,10 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Z: 74.5569763
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -7893,6 +7896,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
+      Z: 74.5569763
     }
     Rotation {
     }

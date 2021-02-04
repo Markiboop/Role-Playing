@@ -1,4 +1,4 @@
-﻿Name: "Environment"
+Name: "Environment"
 RootId: 15633254800893394293
 Objects {
   Id: 10779427122833325768

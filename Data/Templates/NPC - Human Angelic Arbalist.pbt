@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 6513121765170510713
   Name: "NPC - Human Angelic Arbalist"
   PlatformAssetType: 5
@@ -850,6 +850,14 @@
             AnimationPlaybackRateMultiplier: 1
             PlayOnStartAnimation {
               PlaybackRate: 1
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
             }
           }
         }
@@ -4138,5 +4146,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

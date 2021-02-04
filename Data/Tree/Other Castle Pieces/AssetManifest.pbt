@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 16563829183567904255
   Name: "Fantasy Castle Wall 02 - Curved Doorway"
   PlatformAssetType: 1

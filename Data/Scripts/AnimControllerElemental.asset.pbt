@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 14084924065427283392
   Name: "AnimControllerElemental"
   PlatformAssetType: 3
@@ -36,5 +36,5 @@
       }
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 7613778591114394209
   Name: "EquipmentPlayerCostumeClient"
   PlatformAssetType: 3
@@ -11,5 +11,5 @@
       }
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

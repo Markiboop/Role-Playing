@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 7593533924521433355
   Name: "Torch"
   PlatformAssetType: 5
@@ -593,5 +593,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

@@ -1,4 +1,4 @@
-﻿Name: "Framework Documentation"
+Name: "Framework Documentation"
 RootId: 18014765257829886886
 Objects {
   Id: 14435529302210477809

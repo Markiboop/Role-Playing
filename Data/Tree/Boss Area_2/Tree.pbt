@@ -1,4 +1,4 @@
-﻿Name: "Boss Area_2"
+Name: "Boss Area_2"
 RootId: 3548941698894595981
 Objects {
   Id: 598914940309072162
@@ -281,6 +281,7 @@ Objects {
   Name: "OutsideTrigger"
   Transform {
     Location {
+      X: -550
       Z: 150
     }
     Rotation {
@@ -723,6 +724,7 @@ Objects {
   Name: "ZoneTrigger"
   Transform {
     Location {
+      X: -550
       Y: -150
       Z: 170
     }

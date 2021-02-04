@@ -1,8 +1,8 @@
-﻿Assets {
+Assets {
   Id: 10477567347740131740
   Name: "NavMeshGenerator"
   PlatformAssetType: 3
   TextAsset {
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

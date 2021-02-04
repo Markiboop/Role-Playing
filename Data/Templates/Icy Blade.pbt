@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 2566303720816969665
   Name: "Icy Blade"
   PlatformAssetType: 5
@@ -1864,5 +1864,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

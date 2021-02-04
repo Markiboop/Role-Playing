@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17510640320964350980
   Name: "NPC Camp - Player Proximity"
   PlatformAssetType: 5
@@ -277,5 +277,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

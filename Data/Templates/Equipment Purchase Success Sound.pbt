@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 11389909126487387435
   Name: "Equipment Purchase Success Sound"
   PlatformAssetType: 5
@@ -48,5 +48,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

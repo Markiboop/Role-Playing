@@ -1,4 +1,4 @@
-﻿Name: "Shop"
+Name: "Shop"
 RootId: 11662012093633279928
 Objects {
   Id: 3473023619204742566

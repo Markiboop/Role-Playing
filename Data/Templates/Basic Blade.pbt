@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 5137802864982390995
   Name: "Basic Blade"
   PlatformAssetType: 5
@@ -1389,5 +1389,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

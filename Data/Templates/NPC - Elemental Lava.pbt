@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3090477863714944504
   Name: "NPC - Elemental Lava"
   PlatformAssetType: 5
@@ -837,6 +837,14 @@
             AnimationPlaybackRateMultiplier: 1
             PlayOnStartAnimation {
               PlaybackRate: 1
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
+            }
+            SkinnedMeshes {
             }
           }
         }
@@ -4163,5 +4171,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

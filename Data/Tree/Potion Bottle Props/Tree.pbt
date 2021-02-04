@@ -1,4 +1,4 @@
-﻿Name: "Potion Bottle Props"
+Name: "Potion Bottle Props"
 RootId: 5285432658644918223
 Objects {
   Id: 14343232033303010567

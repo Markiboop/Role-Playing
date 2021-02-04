@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 909794778739221942
   Name: "Health Pickup FX"
   PlatformAssetType: 5
@@ -131,5 +131,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }

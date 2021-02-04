@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 12748734323520414329
   Name: "Poison Staff"
   PlatformAssetType: 5
@@ -5411,5 +5411,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 72
+  SerializationVersion: 74
 }
